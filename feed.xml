@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>雷哥笔记</title>
+    <link href="https://leigevip.github.io/feed.xml" rel="self" />
+    <link href="https://leigevip.github.io" />
+    <updated>2022-03-20T19:21:53+08:00</updated>
+    <author>
+        <name>雷哥</name>
+    </author>
+    <id>https://leigevip.github.io</id>
+
+    <entry>
+        <title>测试文章四</title>
+        <author>
+            <name>雷哥</name>
+        </author>
+        <link href="https://leigevip.github.io/ce-shi-wen-zhang-si.html"/>
+        <id>https://leigevip.github.io/ce-shi-wen-zhang-si.html</id>
+
+        <updated>2022-03-20T19:21:53+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://leigevip.github.io/media/posts/4/2022-3-20-19-14-15-2.png" alt="" />
+                    这是测试文章四，你看看都有什么
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://leigevip.github.io/media/posts/4/2022-3-20-19-14-15-2.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://leigevip.github.io/media/posts/4/2022-3-20-19-14-15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://leigevip.github.io/media/posts/4/responsive/2022-3-20-19-14-15-xs.png 300w ,https://leigevip.github.io/media/posts/4/responsive/2022-3-20-19-14-15-sm.png 480w ,https://leigevip.github.io/media/posts/4/responsive/2022-3-20-19-14-15-md.png 768w"  alt="" width="361" height="214"></figure>
+<p>这是测试文章四，你看看都有什么</p>
+<figure class="post__image"><img loading="lazy"  src="https://leigevip.github.io/media/posts/4/u916730607145840andfm193andfGIF.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://leigevip.github.io/media/posts/4/responsive/u916730607145840andfm193andfGIF-xs.jpg 300w ,https://leigevip.github.io/media/posts/4/responsive/u916730607145840andfm193andfGIF-sm.jpg 480w ,https://leigevip.github.io/media/posts/4/responsive/u916730607145840andfm193andfGIF-md.jpg 768w"  alt="" width="1200" height="675"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>测试文章三</title>
+        <author>
+            <name>雷哥</name>
+        </author>
+        <link href="https://leigevip.github.io/ce-shi-wen-zhang-san.html"/>
+        <id>https://leigevip.github.io/ce-shi-wen-zhang-san.html</id>
+            <category term="杂项"/>
+
+        <updated>2022-03-20T19:17:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是测试文章 看看有什么变化
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://leigevip.github.io/media/posts/3/2022-3-20-19-14-15.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://leigevip.github.io/media/posts/3/responsive/2022-3-20-19-14-15-xs.png 300w ,https://leigevip.github.io/media/posts/3/responsive/2022-3-20-19-14-15-sm.png 480w ,https://leigevip.github.io/media/posts/3/responsive/2022-3-20-19-14-15-md.png 768w"  alt="" width="361" height="214"></figure>
+<p>这是测试文章 看看有什么变化</p>
+<figure class="post__image"><img loading="lazy"  src="https://leigevip.github.io/media/posts/3/veer-170886280.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://leigevip.github.io/media/posts/3/responsive/veer-170886280-xs.jpg 300w ,https://leigevip.github.io/media/posts/3/responsive/veer-170886280-sm.jpg 480w ,https://leigevip.github.io/media/posts/3/responsive/veer-170886280-md.jpg 768w"  alt="" width="1600" height="1067"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>这是测试文章二</title>
+        <author>
+            <name>雷哥</name>
+        </author>
+        <link href="https://leigevip.github.io/zhe-shi-ce-shi-wen-zhang-er.html"/>
+        <id>https://leigevip.github.io/zhe-shi-ce-shi-wen-zhang-er.html</id>
+
+        <updated>2022-03-20T19:13:12+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://leigevip.github.io/media/posts/2/u737555197308540855andfm193andfGIF.jpg" alt="" />
+                    这是测试文章二，看看图片以及首页缩略图是怎么生成的
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://leigevip.github.io/media/posts/2/u737555197308540855andfm193andfGIF.jpg" alt="" />
+                <p>这是测试文章二，看看图片以及首页缩略图是怎么生成的</p>
+<figure class="post__image"><img loading="lazy"  src="https://leigevip.github.io/media/posts/2/u15756285741150213623andfm193andfGIF.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://leigevip.github.io/media/posts/2/responsive/u15756285741150213623andfm193andfGIF-xs.jpg 300w ,https://leigevip.github.io/media/posts/2/responsive/u15756285741150213623andfm193andfGIF-sm.jpg 480w ,https://leigevip.github.io/media/posts/2/responsive/u15756285741150213623andfm193andfGIF-md.jpg 768w"  alt="" width="1200" height="798"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>测试文章1</title>
+        <author>
+            <name>雷哥</name>
+        </author>
+        <link href="https://leigevip.github.io/ce-shi-wen-zhang-1.html"/>
+        <id>https://leigevip.github.io/ce-shi-wen-zhang-1.html</id>
+
+        <updated>2022-03-20T19:14:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://leigevip.github.io/media/posts/1/2022-3-20-19-14-15.png" alt="" />
+                    作者是一篇测试文章，请您鉴赏
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://leigevip.github.io/media/posts/1/2022-3-20-19-14-15.png" alt="" />
+                <p>作者是一篇测试文章，请您鉴赏</p>
+<figure class="post__image"><img loading="lazy"  src="https://leigevip.github.io/media/posts/1/u22913498284144427007andfm193andfGIF.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://leigevip.github.io/media/posts/1/responsive/u22913498284144427007andfm193andfGIF-xs.jpg 300w ,https://leigevip.github.io/media/posts/1/responsive/u22913498284144427007andfm193andfGIF-sm.jpg 480w ,https://leigevip.github.io/media/posts/1/responsive/u22913498284144427007andfm193andfGIF-md.jpg 768w"  alt="" width="845" height="1200"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
