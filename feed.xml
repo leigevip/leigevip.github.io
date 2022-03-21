@@ -3,7 +3,7 @@
     <title>雷哥笔记</title>
     <link href="https://leigevip.github.io/feed.xml" rel="self" />
     <link href="https://leigevip.github.io" />
-    <updated>2022-03-21T16:45:19+08:00</updated>
+    <updated>2022-03-21T18:29:35+08:00</updated>
     <author>
         <name>雷哥</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://leigevip.github.io/lei-ge-bi-ji-kai-bo-liao.html"/>
         <id>https://leigevip.github.io/lei-ge-bi-ji-kai-bo-liao.html</id>
 
-        <updated>2022-03-21T16:45:19+08:00</updated>
+        <updated>2022-03-21T18:29:35+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://leigevip.github.io/media/posts/5/veer-170886280.jpg" alt="" />
                     雷哥笔记 采用Publii书写，GitHub存储，域名：leige.vip 前些日子看到一篇文章，作者说其网站采用静态博客系统书写，安全性很高。 于是搜索了一下静态博客，经过了几天的研究对比，最终采用了Publii+Github的方案！ 静态博客系统有很多，常见的jekyll，hexo，hugo，vuepress，但这些博客的本地端大都安装比较复杂，还得使用命令行等，对小白不友好，虽然很多教程号称十分钟搭建成功，但经过测试发现真的没有那么简单，往往令小白望而止步。 后来寻到一款名为Gridea的官产软件，软件安装简单，界面干净利落，对于小白很友好，上手较快，但在测试的过程中，不知道是我网络问题，还是软件问题，经常在上传文件到服务器的环节出错，连接不成功，更新不成功，甚至苦恼。 最后发现了这款Publii的国外软件，这款软件设计相对完善，安装简单，界面精美，关键是即使在我用浏览器都无法打开github.com官方页面的时候，用这款软件更新GitHub pages的文件，依然能够顺利更新，堪称佳作！ 美中不足是软件全英文，对我这种英语文盲来说，用起来不舒服。所以这几天一直在查询官方文档，发现可以汉化。经过尝试现在已经实现部分内容汉化，用起来舒服多了。后续争取将汉化彻底完成，希望能给其他的使用者带来较好的使用感受。 这个软件还有一个问题，就是发布到静态页面会全部存在GitHub pages仓库的根目录，而不像Gridea那样存在post目录下面，这个对于有强迫症的人来说有点难受。关于这个问题官方的说辞是这样最适合seo，对搜索引擎较好，但听说GitHub pages屏蔽了爬虫，后续拭目以待吧！
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://leigevip.github.io/media/posts/5/veer-170886280.jpg" alt="" />
                 <p>雷哥笔记</p>
 <p>采用Publii书写，GitHub存储，域名：leige.vip</p>
 <p>前些日子看到一篇文章，作者说其网站采用静态博客系统书写，安全性很高。</p>
